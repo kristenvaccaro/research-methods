@@ -4,6 +4,8 @@ This course (CSE 290) provides a very lightweight (1-unit) introduction to prima
 
 ## Schedule
 
+[Sign up link](https://docs.google.com/spreadsheets/d/1_zEJuND61wtPo9V-etBDg46inrUNsEa-LLHTcod4x8Y/edit?usp=sharing)
+
 Week 1 - Introductions  
 Week 2 - Writing questions - [Krosnick & Presser Question and Questionnaire Design](https://drive.google.com/file/d/1lZngcPjP4lu7yXzAbYT5Tohox-B7SI0d/view?usp=drive_link)  
 Week 3 - Interviews  
