@@ -20,7 +20,7 @@ Week 10 - Simulation
 ## Instructors
 
 [Kristen Vaccaro](http://kvaccaro.com)  
-kv@ucsd.edu -- Please read the communication guidelines below before emailing!    
+kv at ucsd.edu       
 
 ## Grading
 
