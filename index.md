@@ -8,7 +8,7 @@ This course (CSE 290) provides a very lightweight (1-unit) introduction to prima
 
 Week 1 - Introductions  
 Week 2 - Writing questions - [Krosnick & Presser Question and Questionnaire Design](https://drive.google.com/file/d/1lZngcPjP4lu7yXzAbYT5Tohox-B7SI0d/view?usp=drive_link)  
-Week 3 - Interviews  
+Week 3 - Experimental design - [Price et al. 5.1 and 5.1 Experiment Basics and Experimental Design](https://opentext.wsu.edu/carriecuttler/chapter/experiment-basics/)  
 Week 4 - Class Canceled  
 Week 5 - Surveys  
 Week 6 - Co-design / Participatory design  
