@@ -10,7 +10,7 @@ Week 1 - Introductions
 Week 2 - Writing questions - [Krosnick & Presser Question and Questionnaire Design](https://drive.google.com/file/d/1lZngcPjP4lu7yXzAbYT5Tohox-B7SI0d/view?usp=drive_link)  
 Week 3 - Experimental design - [Price et al. 5.1 and 5.1 Experiment Basics and Experimental Design](https://opentext.wsu.edu/carriecuttler/chapter/experiment-basics/)  
 Week 4 - Class Canceled  
-Week 5 - Surveys  
+Week 5 - Surveys - [Krosnick, Lavrakis & Kim Survey Research](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/E0A3E66FE5C82E6AA42772B38AA2E40C/9780511996481c16_p404-442_CBO.pdf/survey-research.pdf)  
 Week 6 - Co-design / Participatory design  
 Week 7 - Usability testing  
 Week 8 - Contextual inquiry  
