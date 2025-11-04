@@ -11,7 +11,7 @@ Week 2 - Writing questions - [Krosnick & Presser Question and Questionnaire Desi
 Week 3 - Experimental design - [Price et al. 5.1 and 5.1 Experiment Basics and Experimental Design](https://opentext.wsu.edu/carriecuttler/chapter/experiment-basics/)  
 Week 4 - Class Canceled  
 Week 5 - Surveys - [Krosnick, Lavrakis & Kim Survey Research](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/E0A3E66FE5C82E6AA42772B38AA2E40C/9780511996481c16_p404-442_CBO.pdf/survey-research.pdf)  
-Week 6 - Co-design / Participatory design  
+Week 6 - Co-design / Participatory design - Excerpt from [Beyond Sticky Notes](https://drive.google.com/file/d/1Fn4yXC9PgFbUTy8oMXRjN6gIbxbsvCOS/view?usp=sharing)  
 Week 7 - Usability testing  
 Week 8 - Contextual inquiry  
 Week 9 - Log analysis  
